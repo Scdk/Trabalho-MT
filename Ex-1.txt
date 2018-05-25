@@ -1,0 +1,33 @@
+name: Exercicio 1 - Conversor de unário pra binário
+init: qini
+accept: q2
+
+qini,x
+qini,x,>
+
+qini,0
+qini,0,>
+
+qini,_
+q2,_,>
+
+qini,1
+q1,x,<
+
+q1,x
+q1,x,<
+
+q1,1
+q1,0,<
+
+q1,_
+qini,1,>
+
+q1,0
+qini,1,>
+
+q2,_
+q2,_,<
+
+q2,x
+q2,_,<
