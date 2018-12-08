@@ -1,7 +1,7 @@
 # Trabalho-MT
 
-Alunos: Felipe Soares Pereira   - 11811ECP014.
-        Lucas Resende Carneiro  - 11811ECP009.
+Felipe Soares Pereira   - 11811ECP014.  
+Lucas Resende Carneiro  - 11811ECP009.
         
 <h4>Exercícios de Maquina de Turing.</h4>
 
